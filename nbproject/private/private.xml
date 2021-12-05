@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/src/model/livedata/Score.java</file>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/src/controller/PlayController.java</file>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/src/model/MoveRight.java</file>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/src/model/livedata/Observer.java</file>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/src/view/Main.java</file>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/src/model/MoveLeft.java</file>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/src/controller/PaintController.java</file>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/src/controller/MapGeneratorController.java</file>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/src/model/MainPanel.java</file>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/src/model/MoveInterface.java</file>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/src/model/livedata/Subject.java</file>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/src/model/livedata/ScoreSubscriberOne.java</file>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/src/model/MyFrame.java</file>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/src/model/AbstractFactore.java</file>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/src/view/GamePlay.java</file>
+            <file>file:/C:/Users/Islam/Documents/NetBeansProjectsD/Pong/src/model/livedata/ScorePublisher.java</file>
+        </group>
+    </open-files>
+</project-private>
